@@ -1,0 +1,19 @@
+{
+  "name": "101246661_comp3123-exec04",
+  "version": "1.0.0",
+  "description": "lab exercise 4 - COMP3123",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon run index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "justin bartlett",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
